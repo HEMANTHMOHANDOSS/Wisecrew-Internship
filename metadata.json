@@ -1,0 +1,8 @@
+{
+  "name": "EduSphere Portal",
+  "description": "A premium, responsive student portal with dashboard, attendance, doubt resolution, and profile management features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
